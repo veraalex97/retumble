@@ -1,4 +1,4 @@
 rE-Tumble
-------------
+=========
 
 A little project where I will be implementing core aspects and functionality from big social sites; Twitter, Tumblr and Reddit.
